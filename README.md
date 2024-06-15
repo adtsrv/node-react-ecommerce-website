@@ -33,6 +33,8 @@ HTML
 CSS
 JavaScript
 React
+
+
 Backend:
 
 Node.js
@@ -40,6 +42,8 @@ Express.js
 Database:
 
 MongoDB (or another NoSQL database)
+
+
 Other:
 
 JWT for authentication
