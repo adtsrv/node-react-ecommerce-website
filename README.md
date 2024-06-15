@@ -5,13 +5,12 @@ Welcome to the repository for our E-Commerce Website, similar to Amazon, built u
 Table of Contents
 
 Project Overview
+
 Features
+
 Technologies Used
-Installation
-Usage
-Contributing
-License
-Contact
+
+
 Project Overview
 
 This project is an e-commerce website where users can browse products, add items to their cart, and make purchases. It is designed to provide a seamless shopping experience similar to that of Amazon, with features such as user authentication, product search, and order management.
