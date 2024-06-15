@@ -2,14 +2,6 @@
 
 Welcome to the repository for our E-Commerce Website, similar to Amazon, built using HTML, CSS, JavaScript, React, and Node.js. This README file provides an overview of the project, installation instructions, and other relevant information to help you get started.
 
-Table of Contents
-
-Project Overview
-
-Features
-
-Technologies Used
-
 
 Project Overview
 
